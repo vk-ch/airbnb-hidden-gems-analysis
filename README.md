@@ -1,6 +1,6 @@
 # Airbnb Hidden Gems Analysis
 
-**SQL + Python | UW Foster School of Business | BUS 512**
+**SQL + Python | UW Foster School of Business **
 
 Identifying underpriced, high-demand Airbnb listings across San Francisco and Seattle using SQL-based feature engineering and Python visualizations.
 
@@ -51,4 +51,4 @@ Airbnb US 2023 listings across NYC, LA, SF, and Seattle. Data cleaned and transf
 
 ---
 
-*Part of the UW Foster MSBA Business Analytics portfolio.*
+*Business Analytics portfolio.*
