@@ -1,0 +1,7 @@
+# Large data files — download instructions in README
+data/cleaned_ab_us_2023.csv
+data/*.sql
+**/*.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
